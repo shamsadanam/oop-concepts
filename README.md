@@ -11,3 +11,6 @@ Inheritance is the concept in OOPs in which one class inherits the attributes an
 Polymorphism occurs when we have many classes that are related to each other by inheritance.
 
 Like we specified in the previous chapter; Inheritance lets us inherit attributes and methods from another class. Polymorphism uses those methods to perform different tasks. This allows us to perform a single action in different ways.
+
+## Inheritance vs Polymorphism
+The most basic difference between inheritance and polymorphism is that "inheritance" is a concept of objectoriented programming that allows creating a new class with the help of the features of an existing class, whereas the concept "polymorphism" represents multiple forms of a single function.
